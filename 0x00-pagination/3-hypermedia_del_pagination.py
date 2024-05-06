@@ -50,7 +50,7 @@ class Server:
             page_size (int, optional): . Defaults to 10.
 
         Returns:
-            Dict: 
+            Dict:
         """
         assert type(index) == int
         assert type(page_size) == int

@@ -35,7 +35,7 @@ class Server:
             page_size (int, optional): . Defaults to 10.
 
         Returns:
-            List[List]: 
+            List[List]:
         """
         assert type(page) == int
         assert type(page_size) == int
