@@ -8,7 +8,7 @@ BaseCaching = __import__("base_caching").BaseCaching
 
 
 class LIFOCache(BaseCaching):
-    """ 
+    """
         class that inherits from BaseCaching and is a caching system:
     """
 
